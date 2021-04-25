@@ -566,7 +566,7 @@ nav {
 }
 
 .cont_left {
-    width: 400px;
+    width: 50%;
     height:450px;
     display: flex;
     flex-direction: column;
@@ -606,7 +606,7 @@ nav {
     font-size:15px;
 }
 .cont_right {
-    width: 400px;
+    width: 50%;
     height:450px;
     background-color: #536162;
     border-radius: 20px;
